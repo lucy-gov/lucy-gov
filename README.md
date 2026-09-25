@@ -1,33 +1,34 @@
-I work at the intersection of hydrology, aquatic ecology, data engineering, open science, and research software engineering.
+I work at the intersection of data governance, digital service delivery, and public-sector technology.
 
-My work focuses on building practical, reproducible, and maintainable data systems for environmental science and natural resource management, with an emphasis on aquatic ecology, habitat restoration, environmental flows, and climate adaptation in California.
+I'm a Data Governance Strategist with [CalData](https://innovation.ca.gov/who-we-are/caldata/) at the [California Office of Data and Innovation](https://innovation.ca.gov/), where I help design and apply data and artificial intelligence governance standards and practices across government agencies. I care about government technology that works for the people it serves and that strengthens transparency, accountability, and democracy.
 
 This GitHub account is primarily for work-related code, documentation, and technical collaboration.
 
 ## What I work on
 
-I use code, data systems, open-source software, and open science practices to help environmental programs move from individual projects and datasets toward shared, reusable infrastructure and reproducible, extensible scientific work.
+I create governance standards and strategic goals and then turn them into practical guidance, reusable tools, and measurable practices that departments can actually adopt. 
 
 Current areas of focus include:
 
-- 🌱 **Open science workflows** for environmental monitoring, restoration, and synthesis
-- 🗂️ **Data governance and stewardship** for multi-agency science programs
-- 🔁 **Reproducible research pipelines** using R, Quarto, GitHub, `targets`, `renv`, continuous integration, and related tools
-- 📦 **Open-source research software and open data packages** for environmental analysis and publication
-- 🏗️ **Environmental data infrastructure** including cloud platforms, spatial databases, and data services
-- 🗺️ **Spatial data pipelines** for restoration project tracking, validation, and integration
-- 🌊 **River network and watershed analysis** for barrier removal, connectivity, and restoration planning
-- 🏛️ **Public-sector technology** for government data systems and institutional implementation
-- 🤖 **Generative AI in science** for responsible coding, analysis, and decision support
-- 📚 **Reusable documentation and templates** that make scientific workflows easier to review, maintain, and extend
+- 🗂️ **Data governance standards and adoption** including metadata, lineage, data quality, and access controls
+- 📐 **Reference models and implementation playbooks** that help departments build interoperable, well-governed data systems
+- 📊 **Governance metrics** for tracking adoption, data quality, and metadata coverage, and for learning what works
+- 🏛️ **Digital service delivery** that is user-centered, effective, and iteratively developed
+- 🔒 **Privacy, security, and responsible data use** as everyday implementation practices, not afterthoughts
+- 🤖 **Responsible AI in government** including practical guidance for departments adopting AI tools, particularly generative AI
+- 🧑‍🏫 **Training, coaching, and communities of practice** that help departmental data and IT teams learn from each other
+- 🌐 **Working in the open** through open-source code, public documentation, and shared, reusable artifacts
+- 📚 **Reusable documentation and templates** that make governance easier to understand, apply, and maintain
 
 ## Working principles
 
-I care about code and data systems that are:
+I care about code, data systems, and public services that are:
 
-- **Reproducible** — analyses can be rerun and reviewed
-- **Reusable** — datasets, code, and documentation are structured for future use
+- **User-centered** — designed around the needs of the people governments serve and the staff who deliver services
+- **Accountable** — decisions, data use, and system behavior can be explained and examined, and they protect privacy and public trust
 - **Transparent** — methods and assumptions are visible
+- **Reproducible** — analyses and processes can be rerun and reviewed
+- **Reusable** — standards, patterns, code, and documentation are structured so other teams can build on them
 - **Maintainable** — projects can survive beyond one person or one deadline
 - **Accessible** — tools and documentation are approachable for new learners and straightforward to use for people with diverse access needs
 - **Useful** — technical work supports real decisions, collaboration, and learning
@@ -35,7 +36,7 @@ I care about code and data systems that are:
 
 ## Beyond GitHub
 
-I earned my PhD in [Environmental Science, Policy, and Management from UC Berkeley](https://ourenvironment.berkeley.edu/), where I was advised by [Dr. Ted Grantham](https://ourenvironment.berkeley.edu/people/ted-grantham) and worked in the UC Berkeley Freshwater Labs. That training continues to shape how I approach environmental data science, open science, and decision-support tools for river and restoration programs.
+I earned my PhD in [Environmental Science, Policy, and Management from UC Berkeley](https://ourenvironment.berkeley.edu/), where I was advised by [Dr. Ted Grantham](https://ourenvironment.berkeley.edu/people/ted-grantham) and worked in the UC Berkeley Freshwater Labs. Before joining CalData, I worked at the [California Department of Water Resources](https://water.ca.gov) on open science practices, generative artificial intelligence in science, and modern data systems for aquatic ecology research, habitat restoration, and environmental flows deployment. My background in hydrology, open science, and research software engineering continues to shape how I approach government data and technology.
 
 - Personal website: [lucyrandrews.com](https://www.lucyrandrews.com)
-- Employer: [California Department of Water Resources](https://water.ca.gov)
+- Employer: [California Office of Data and Innovation](https://innovation.ca.gov/)
